@@ -9,7 +9,7 @@ Window:
 -Also, properties like document, location are properties of the window object.
 -window API
 
-Document
+Document:
 -It is the direct child of the window object. It is aka Document Object Model (DOM).
 -You can access it via window.document or document.
 -document object has many useful methods defined on it.
